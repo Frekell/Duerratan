@@ -15,13 +15,16 @@ der königlichen Garde ein sehr hohes ansehen haben werden die kinder Oftmals sc
 Kämpfen vertraut gemacht weshalb die Stadt viele starke Krieger hervorbringt.
 
 
-Die ....: Die ...... Sind ein reisendes Volk.
+Die Tholes : Die Tholes Sind ein reisendes Volk.
 Sie sind Räuber und Händler. Sie sind mit Mythen und Sagen vertraut. Diejenigen von ihnen die mit der GABE geboren werden befassen sich 
 mit der Alchemie. Auf ihrem Raubzügen überfallen sie meist kleiner Dörfer aber auch Transporte sind ein gern gesehenes Ziel von ihnen.
 
 
-Die ...: Die .... Sind ein einfaches Bauernvolk. Sie sind sehr Naturverbunden und verdienen ihren Lebensunterhalt mit dem ackerbau. Sie 
+Die Harde : Die Harde Sind ein einfaches Bauernvolk. Sie sind sehr Naturverbunden und verdienen ihren Lebensunterhalt mit dem ackerbau. 
+Sie 
 sind sehr Gläubig und leben nach dem Prinzip das jeder sich um jeden sorgt. Sie benutzen kein geld sondern betreiben reinen Tauschhandel.
+
+
 
 ```
 

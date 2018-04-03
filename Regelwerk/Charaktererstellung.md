@@ -125,3 +125,55 @@ Die FÄhigkeiteten findet der Spieler in den Unten stehenden Tabellen
 
 TABELLEN FOLGEN
 ```
+### Feuer
+
+```
+
+```
+| Fähigkeit  | Magielevel | kosten Lernpunkte | Manakosten | Schaden | Radius                            | Beschreibung                                                                       |
+| ---------- | ---------- | ----------------- | ---------- | ------- | --------------------------------- | ---------------------------------------------------------------------------------- |
+| Irrlicht   | 1          | 10                | 5          | /       | 5 meter + 1 Pro Level(ab level 2) | Kugel aus kaltem Feuer Die lciht erzeugt                                           |
+|
+| Heißblütig | 2          | /                 | 20         | /       | /                                 | Erhöht den Schaden eines Spielers für eine Runde (1-3 = D4 ,4-7 = D10, 8+ = w20  ) |
+| Brennender Grund| 4 | 40 |  
+### Wasser
+
+```
+
+```
+| Fähigkeit | Magielevel | kosten Lernpunkte | Manakosten | Schaden | Radius | Beschreibung |
+| --------- | ---------- | ----------------- | ---------- | ------- | ------ | ------------ ||
+
+
+### Natur
+
+```
+
+```
+| Fähigkeit | Magielevel | kosten Lernpunkte | Manakosten | Schaden | Radius | Beschreibung |
+| --------- | ---------- | ----------------- | ---------- | ------- | ------ | ------------ |
+
+### Kraftmagie
+
+```
+
+```
+| Fähigkeit    | Magielevel | kosten Lernpunkte | Manakosten | Schaden | Radius     | Beschreibung                                                              |
+| ------------ | ---------- | ----------------- | ---------- | ------- | ---------- | ------------------------------------------------------------------------- |
+| Konterschlag | 3          | /                 | 30         | -       | Einzelziel | Kontert einen Angriff des Gegners und wirft ihn mit gleicher kraft zurück |
+
+### Wandlung
+
+```
+
+```
+| Fähigkeit | Magielevel | kosten Lernpunkte | Manakosten | Schaden | Radius | Beschreibung |
+| --------- | ---------- | ----------------- | ---------- | ------- | ------ | ------------ 
+
+### Nekromantie
+
+```
+
+```
+| Fähigkeit | Magielevel | kosten Lernpunkte | Manakosten | Schaden | Radius | Beschreibung |
+| --------- | ---------- | ----------------- | ---------- | ------- | ------ | ------------ |
