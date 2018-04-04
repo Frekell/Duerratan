@@ -31,7 +31,6 @@ Konstitution
 Intelligenz
 Charisma
 
-
 Die Zuteilung der Punktwerte kann frei vom Spieler gewählt werden. 
 ```
 ## Lernpunkte
